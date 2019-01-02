@@ -3,13 +3,12 @@
 
 Personal mycroft backend alternative to mycroft.home, written in flask
 
-# UNDER CONSTRUCTION
+Development moved to [MycroftAI Repo](https://github.com/MycroftAI/personal-backend)
+
+Archived for historical purposes
 
 ![](personal_mycroft_backend/media/personalbackend.jpg)
 
-you can run it, but why would you before it's finished?
-
-Pull Requests welcome
 
 ## Install
 
