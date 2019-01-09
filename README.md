@@ -5,7 +5,7 @@ Personal mycroft backend alternative to mycroft.home, written in flask
 
 Development moved to [MycroftAI Repo](https://github.com/MycroftAI/personal-backend)
 
-This repo is only not archived for purposes of making PRs to the official repository, please do not open issues or make PRs
+please do not open issues or make PRs
 
 # CONSIDER THIS ARCHIVED FOR HISTORICAL PURPOSES
 
